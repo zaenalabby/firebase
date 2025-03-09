@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670166540527",
+    "project_id": "boidata-32530",
+    "storage_bucket": "boidata-32530.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670166540527:android:d4af5caa673088e04dfb1a",
+        "android_client_info": {
+          "package_name": "com.abw.biodata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJ9vzsP-fQkpDC4jgybvtJCfGiVk9XJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
